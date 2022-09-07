@@ -5,7 +5,7 @@
    - This project uses SQL querying to extract data from a Bicycle shop database.  
      I also use Python packages (pandas, matplotlib, scipy.stats) to graph, model, and uncover insights. 
      
-- Skills I'm learning both in and outside of school: 
+- Technical Skills I'm learning both in and outside of school: 
   - SQL 
   - Python
   - R
