@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dominickyacono, a data analytics and economics student studying at The Ohio State University.
--  Curious in the growing universe of big data, I’m currently learning SQL, Python, R, and Java.
+-  Curious in the growing universe of big data, I’m currently learning SQL, Python, R, Java, and Tableau.
+-  My goal is to utilize my technical skills towards driving decision making for businesses!
 -  Feel free to observe my projects and reach out @yacono.5@osu.edu 
 
 <!---
