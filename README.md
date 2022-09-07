@@ -1,13 +1,16 @@
 👋 Hi, I’m @dominickyacono, a data analytics and economics student studying at The Ohio State University.
-Curious in the growing universe of big data, I’m currently learning a variety of skills both in and outside of school: 
+📊 I'm interested in the ways businesses can utilize data driven strategies towards reaching their goals! 
+❗️ I have begun developing personal projects to highlight key data analyis skills:
+ - **Exploratory Data Analysis of Bicycle Business** 
+   - This project uses SQL querying to extract data from a Bicycle shop database.  
+     I also use Python packages (pandas, matplotlib, scipy.stats) to graph, model, and uncover insights. 
+     
+Skills I'm learning both in and outside of school: 
  - SQL 
  - Python
  - R
  - Java
  - Tableau
-My goal is to utilize my technical skills and work with others towards driving decision making for businesses!
-Here on GitHub, check out my personal project analyzing a bicycle business database using SQL querying and Python data modeling!
-Feel free to reach out at yacono.5@osu.edu!
 
 <!---
 dominickyacono/dominickyacono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
