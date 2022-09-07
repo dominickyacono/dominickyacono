@@ -6,11 +6,11 @@
      I also use Python packages (pandas, matplotlib, scipy.stats) to graph, model, and uncover insights. 
      
 - Skills I'm learning both in and outside of school: 
- - SQL 
- - Python
- - R
- - Java
- - Tableau
+  - SQL 
+  - Python
+  - R
+  - Java
+  - Tableau
 
 <!---
 dominickyacono/dominickyacono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
