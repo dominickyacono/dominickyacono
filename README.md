@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @dominickyacono, a data analytics and economics student studying at The Ohio State University.
  - 📊 I'm interested in the ways businesses can utilize data driven strategies towards reaching their goals! 
- - ❗️ I have begun developing personal projects to highlight key data analysis skills:
+ - ❗️ Welcome to my portfolio of side/personal projects:
     - **Is The SAT or ACT Better To Take For Long-term Success?**
       - This project utilizes Ordinary Least Squares, producing multiple predictive models to predict which high school standardized exam is more likely to deliver long-term success.
     - **Exploratory Data Analysis of Bicycle Business**
