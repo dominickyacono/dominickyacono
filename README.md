@@ -2,7 +2,9 @@
  - 📊 I'm interested in the ways businesses can utilize data driven strategies towards reaching their goals! 
  - ❗️ Welcome to my portfolio of side/personal projects:
     - **Is The SAT or ACT Better To Take For Long-term Success?**
-      - This project utilizes Ordinary Least Squares, producing multiple predictive models to predict which high school standardized exam is more likely to deliver long-term success.
+      - This project produces multiple predictive models to predict which high school standardized exam is more likely to deliver long-term success.
+    - **What Are The Causal Influences Behind Sleep Time In Mammals?**
+      - This project uses R to create OLS regression and ridge regression models to find the causal factors of sleep time in mammals.
     - **Exploratory Data Analysis of Bicycle Business**
       - This project uses SQL querying to extract data from a Bicycle shop database.  
         I also use Python packages (pandas, matplotlib, scipy.stats) to graph, model, and uncover insights. 
