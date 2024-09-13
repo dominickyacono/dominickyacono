@@ -9,7 +9,7 @@
       - This project uses SQL querying to extract data from a Bicycle shop database.  
         I also use Python packages (pandas, matplotlib, scipy.stats) to graph, model, and uncover insights. 
     - **NYC Bike Sharing System Visualization**
-      - This project uses Tableau's visualization abilities to graph and analyze trends within the Big Apple's massive bike sharing system.
+      - This project uses Tableau's visualization abilities to graph and analyze trends within New York City's massive bike sharing system.
      
 - Technical skills I'm learning both in and outside of school: 
   - SQL 
