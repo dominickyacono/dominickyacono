@@ -1,4 +1,4 @@
- - 👋 Hi, I’m @dominickyacono, a student double majoring in economics & data analytics at The Ohio State University.
+ - 👋 Hi, I’m @dominickyacono, a master's student at Carnegie Mellon University's Heinz College of Information Systems and Public Policy.
  -    I'm primarily interested in the use of statistical research and data science to study economic outcomes, market dynamics, and cutting-edge innovation.
  -    Welcome to my portfolio of side/personal projects:
     - **[Is The SAT or ACT Better To Take For Long-term Success?](https://github.com/dominickyacono/SAT-vs-ACT-regression-analysis)**
