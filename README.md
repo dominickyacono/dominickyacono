@@ -2,7 +2,8 @@
  -    I'm primarily interested in the use of statistical research and data science to study economic outcomes, market dynamics, and cutting-edge innovation.
  -    Welcome to my portfolio of side/personal projects: <br>
     - **[Is The SAT or ACT Better To Take For Long-term Success?](https://github.com/dominickyacono/SAT-vs-ACT-regression-analysis)** 
-      - This project produces multiple predictive models to predict which high school standardized exam is more likely to deliver long-term success. <br>
+      - This project produces multiple predictive models to predict which high school standardized exam is more likely to deliver long-term success.
+     <br>
     - **[What Are The Causal Influences Behind Sleep Time In Mammals?](https://github.com/dominickyacono/sleeptime-analysis)**
       - This project uses R to create OLS regression and ridge regression models to find the causal factors of sleep time in mammals. <br>
     - **[Exploratory Data Analysis of Bicycle Business](https://github.com/dominickyacono/Exploratory-Analysis-of-Bicycle-Business)**
