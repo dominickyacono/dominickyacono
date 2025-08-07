@@ -5,8 +5,8 @@
     - **[Is The SAT or ACT Better To Take For Long-term Success?](https://github.com/dominickyacono/SAT-vs-ACT-regression-analysis)**
       This project produces multiple predictive models to predict which high school standardized exam is more likely to deliver long-term success.
      <br>
-    - **[What Are The Causal Influences Behind Sleep Time In Mammals?](https://github.com/dominickyacono/sleeptime-analysis)**
-      This project uses R to create OLS regression and ridge regression models to find the causal factors of sleep time in mammals.
+    - **[Predicting 311 Service Request Across Chicago - A Daily Forecasting Dashboard](https://github.com/dominickyacono/sleeptime-analysis)**
+      This project uses XGBoost to predict the number of service requests across varying Chicago community areas, fluidly displaying the results in a dashboard.
      <br>
     - **[Exploratory Data Analysis of Bicycle Business](https://github.com/dominickyacono/Exploratory-Analysis-of-Bicycle-Business)**
       This project uses SQL querying to extract data from a Bicycle shop database.
