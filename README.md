@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @dominickyacono, a master's student at Carnegie Mellon University's Heinz College of Information Systems and Public Policy.
- -    I'm primarily interested in the use of data science to drive meaningful change in the world.
+ -    I enjoy using data science to develop a deeper understanding of multi-faceted problems.
  -    Welcome to my portfolio of side/personal projects:
      <br>
      - **[Predicting 311 Service Request Across Chicago - A Daily Forecasting Dashboard](https://github.com/dominickyacono/chicago-service-dashboard)**
