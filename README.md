@@ -8,12 +8,12 @@
     - **[Is The SAT or ACT Better To Take For Long-term Success?](https://github.com/dominickyacono/SAT-vs-ACT-regression-analysis)**
       This project produces multiple predictive models to predict which high school standardized exam is more likely to deliver long-term success.
      <br>
+    - **[NYC Bike Sharing System Visualization](https://github.com/dominickyacono/NYC-citibike-visualization)**
+      This project uses Tableau's visualization abilities to graph and analyze trends within New York City's massive bike sharing system.
+     <br>
     - **[Exploratory Data Analysis of Bicycle Business](https://github.com/dominickyacono/Exploratory-Analysis-of-Bicycle-Business)**
       This project uses SQL querying to extract data from a Bicycle shop database.
       I also use Python packages (pandas, matplotlib, scipy.stats) to graph, model, and uncover insights.
-     <br>
-    - **[NYC Bike Sharing System Visualization](https://github.com/dominickyacono/NYC-citibike-visualization)**
-      This project uses Tableau's visualization abilities to graph and analyze trends within New York City's massive bike sharing system.
      <br>
 - Technical skills: 
   - SQL 
